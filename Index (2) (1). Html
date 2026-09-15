@@ -1,0 +1,18 @@
+head>
+    <title>Dhiraj Ki Website</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>Namaste! Mera naam Dhiraj hai.</p>
+
+    <h2>Meri Website</h2>
+
+    <p>Yeh meri pehli website hai.</p>
+
+    <button>Click Me</button>
+
+</body>
+</html>
